@@ -1,0 +1,5 @@
+python3.11 cluster_playlist_creator.py kmeans_fs2_elbow.txt &&
+python3.11 cluster_playlist_creator.py affprog_fs1_davies.txt &&
+python3.11 cluster_playlist_creator.py affprog_fs1_sillhouette.txt &&
+python3.11 cluster_playlist_creator.py affprog_fs2_davies.txt &&
+python3.11 cluster_playlist_creator.py affprog_fs2_sillhouette.txt

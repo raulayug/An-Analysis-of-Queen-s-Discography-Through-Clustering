@@ -1,0 +1,64 @@
+KMeans FS2 Elbow
+Son and Daughter	0
+My Melancholy Blues	0
+We Will Rock You	0
+Fun It	0
+Scandal	0
+The Invisible Man	0
+Headlong	0
+The Great Pretender	1
+Procession	2
+Another One Bites The Dust	3
+Doing Alright	4
+Keep Yourself Alive	4
+Father to Son	4
+Nevermore	4
+Killer Queen	4
+Now I'm Here	4
+Death On Two Legs	4
+Love of My Life	4
+You're My Best Friend	4
+39	4
+Good Old-Fashioned Lover Boy	4
+Spread Your Wings	4
+We Are The Champions	4
+Bicycle Race	4
+Fat Bottomed Girls	4
+In Only Seven Days	4
+Play the Game	4
+Save Me	4
+Under Pressure	4
+I Want to Break Free	4
+Radio Ga Ga	4
+One Year of Love	4
+Princes of the Universe	4
+Who Wants to Live Forever	4
+I Want It All	4
+Rain Must Fall	4
+The Miracle	4
+All God's People	4
+Bijou	4
+Don't Try So Hard	4
+I Can't Live With You	4
+Innuendo	4
+I'm Going Slightly Mad	4
+The Show Must Go On	4
+These Are the Days of Our Lives	4
+I Was Born to Love You	4
+Made in Heaven	4
+Mother Love	4
+My Life Has Been Saved	4
+Too Much Love Will Kill You	4
+You Don't Fool Me	4
+Living on My Own	4
+Seven Seas of Rhye	5
+Bohemian Rhapsody	5
+Somebody to Love	5
+White Man	5
+Don't Stop Me Now	5
+Crazy Little Thing Called Love	5
+Hammer to Fall	5
+It's a Hard Life	5
+A Kind of Magic	5
+Friends Will Be Friends	5
+Heaven for Everyone	5
